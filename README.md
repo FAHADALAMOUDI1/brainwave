@@ -1,5 +1,6 @@
+# brainwave
+<img width="1706" alt="Screenshot 1446-09-16 at 7 30 20 AM" src="https://github.com/user-attachments/assets/1d7e8d04-fa0a-4117-b6e2-e814eb601a4e" />
 
-![Uploading Screenshot 1446-09-16 at 7.30.20 AM.png…]()
 
 # Description
 Brainwave is a modern, responsive, and visually stunning website built using React, Vite, Tailwind CSS, and GSAP (GreenSock Animation Platform). The website is designed to be fully responsive across all devices, ensuring a seamless user experience on desktops, tablets, and mobile phones. Whether you're looking for a sleek landing page, an interactive portfolio, or a dynamic web application, Brainwave delivers a polished and engaging interface.
